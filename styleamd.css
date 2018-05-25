@@ -1,0 +1,144 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+body{
+background-color:#CBD0D3;
+margin:0px;
+}
+.header{
+font-family: 'Montserrat', sans-serif;
+font-size:40px;
+text-align:center;
+padding:20px 0 20px 0;
+background-color:#9BAAAB;
+width:100%;
+text-shadow:1px 1px 1px #FBFCFC;
+}
+div#add{
+font-family: 'Montserrat', sans-serif;
+padding:24px;
+position:absolute;
+margin:210px 0 0 270px;
+width:80%;
+overflow:hidden;
+}
+div#add > a{
+font-family: 'Montserrat', sans-serif;
+font-size:30px;
+padding:12px 24px;
+color:#FAFBFB;
+margin-right:150px;
+text-decoration:none;
+border-radius:5px;
+background:#3A5168;
+transition: background 0.5s linear 0s, color 0.5s linear 0s;
+overflow:hidden;
+}
+div#add > a:hover{
+background:#2CC36B;
+color:#FAFBFB;
+}
+div#mod{
+font-family: 'Montserrat', sans-serif;
+padding:24px;
+position:absolute;
+margin:210px 0 0 260px;
+width:70%;
+overflow:hidden;
+}
+div#mod > a{
+font-family: 'Montserrat', sans-serif;
+font-size:23px;
+padding:12px 24px;
+color:#FAFBFB;
+margin-right:150px;
+text-decoration:none;
+border-radius:5px;
+background:#3A5168;
+transition: background 0.5s linear 0s, color 0.5s linear 0s;
+overflow:hidden;
+}
+div#mod > a:hover{
+background:#F4A62A;
+color:#FAFBFB;
+}
+div#rem{
+font-family: 'Montserrat', sans-serif;
+padding:20px;
+position:absolute;
+margin:230px 0 0 210px;
+width:80%;
+overflow:hidden;
+
+}
+div#rem > a{
+font-family: 'Montserrat', sans-serif;
+font-size:24px;
+padding:12px 24px;
+color:#FAFBFB;
+margin-right:110px;
+text-decoration:none;
+border-radius:5px;
+background:#3A5168;
+transition: background 0.5s linear 0s, color 0.5s linear 0s;
+overflow:hidden;
+}
+div#rem > a:hover{
+background:#D14233;
+color:#FAFBFB;
+}
+.but{
+font-family: 'Montserrat', sans-serif;
+margin-left:50px;
+background-color:#9BAAAB;
+}
+.footer{
+margin-top:20px;
+font-size:12px;
+float:right;
+font-style:italic;
+}
+div#foot{
+font-family: 'Montserrat', sans-serif;
+padding:20px;
+position:absolute;
+margin-top:500px;
+padding:30px 75px 30px 470px;
+width:60%;
+overflow:hidden;
+font-size:20px;
+background-color:#9BAAAB;
+}
+div#foot > a{
+float:left;
+font-family: 'Montserrat', sans-serif;
+padding:12px 24px;
+color:#FAFBFB;
+text-decoration:none;
+overflow:hidden;
+}
+a:hover{
+text-shadow:2px 2px 2px #cfcfcf;
+}
+div#search{
+font-family: 'Montserrat', sans-serif;
+padding:24px;
+position:absolute;
+margin:210px 0 0 270px;
+width:80%;
+overflow:hidden;
+}
+div#search > a{
+font-family: 'Montserrat', sans-serif;
+font-size:30px;
+padding:12px 24px;
+color:#FAFBFB;
+margin-right:150px;
+text-decoration:none;
+border-radius:5px;
+background:#3A5168;
+transition: background 0.5s linear 0s, color 0.5s linear 0s;
+overflow:hidden;
+}
+div#search > a:hover{
+background:#A66BBE;
+color:#FAFBFB;
+}
